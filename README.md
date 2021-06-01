@@ -1,32 +1,23 @@
-# The Hunted!
+# The Hunted
+3D Hide and Seek game using AI (made for Blueprint Hackathon 20')
 
-#Objective
-- The objective of the game is to capture 15 hiders and to keep out of the clutches of the evil robot seekers.
+# Objective
+Collect all 15 hiders in under 45 seconds while staying away from the red seeker at the same time
 
-#How to Play
-To Control the Player:
-- Point with the mouse Pointer
-- Move with WASD Keyboard Controls
+# Controls
+WASD
 
-#Components: 
-#The Player
-- Controlled through keyboard and mouse inputs
-- Speed is initially set to 190
-- Speed increases by 10 as a hider is caught
-- The Player recieves a temporary boost which doubles the speed
-- The Player has a variable which counts how many hiders were caught, and is increased by one as soon as hider is caught
-#The Seekers
-- The role of the seekers is to find the player and to eliminate the player
-- The seeker speeds up throughout the game, through a logarithmic function of time
-#The Hiders
-- The role of the hider is to run away from the player until the player is eliminated.
-- The hider works through an AI in which it calculates the position of the player and is able to escape the player
+# Components: 
+15 hiders, 1 Player, and 1 AI Seeker
 
-#Citations
-- https://github.com/antonpantev/unity-movement-ai
-Assets:
-LowPoly Environment Pack by Korveen
+# Player:
+- Controlled using WASD movement
+- Speed is initially set to 190 units
+- 45 seconds to catch all hiders at the start
+- Speed doubles temporarily every time a hider is caught & 5 seconds are added
+- Player must collect all 15 hiders(by colliding with all of them)
+- Player must also stay away from the seeker(game ends upon collision with seeker)
+
+# Assets:
 - https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
-
-- Made in Unity
-# Hunted
+- https://github.com/antonpantev/unity-movement-ai
