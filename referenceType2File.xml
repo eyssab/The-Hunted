@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d4816795f09b7384f854d9a2c54e4c24</guid>
+    <fileName>Assets/MainMenu.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>71c12762e871f4246a89369b84cff6ce</guid>
+    <fileName>Assets/OpenDoor.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>OpenDoor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>deb27a78374a94e4d84e70578aeab353</guid>
+    <fileName>Assets/PauseMenu.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>PauseMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d0fb7ad878c96643a9ef33951d933ba</guid>
+    <fileName>Assets/3D/Scripts/CollisionAvoidance.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.CollisionAvoidance</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52e7f349139dea54da032182166c26d8</guid>
+    <fileName>Assets/3D/Scripts/Evade.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.Evade</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9cdf64bcab4d4d8468c92f1bc4b23f7c</guid>
+    <fileName>Assets/3D/Scripts/Flee.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.Flee</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8303b41d5b5e59846808128b46019c95</guid>
+    <fileName>Assets/3D/Scripts/Hide.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.Hide</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8895fef33386c5d4eb6e38eb84205740</guid>
+    <fileName>Assets/3D/Scripts/HideUnit.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.HideUnit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aba478c34a008b9409fca92681f8d1ba</guid>
+    <fileName>Assets/3D/Scripts/Movement.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Movement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7857a346b86a4e4ea2b03e8db88b9b6</guid>
+    <fileName>Assets/3D/Scripts/MovementAIRigidbody.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.MovementAIRigidbody</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f4475292728ce749b32d5b53fd7af15</guid>
+    <fileName>Assets/3D/Scripts/Score.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Score</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ae73ab1d415c7c4a9ffbd954f482d15</guid>
+    <fileName>Assets/3D/Scripts/SeekUnit.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.SeekUnit</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b337c53d2671c0a42aea40f4e5df0ae2</guid>
+    <fileName>Assets/3D/Scripts/Spawner.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.Spawner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6f58141e9f357e448fd2fa6f1afc1f7</guid>
+    <fileName>Assets/3D/Scripts/SteeringBasics.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.SteeringBasics</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e008bb997f9e8cc42a7861ed1e5b45ea</guid>
+    <fileName>Assets/3D/Scripts/WallAvoidance.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>UnityMovementAI.WallAvoidance</string>
+      <string>UnityMovementAI.WallAvoidance+WallDetection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aaad6d1a199ca1a40b68c042ccfb6366</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BCategoryAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28591af402db9a54986848fad7efe295</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BInteractiveAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c94e682c38053054c9a64ea900ef2052</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BLayersEnumAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BLayersEnumAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab1dec69a0eced04980b808363d1a411</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BMessageAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03acd1ffba9a383439eabab79257a490</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeOptionsAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeOptionsAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b27a8409a531164fb1bf65ce0a74fb5</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/BRangeSimpleAttribute.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeSimpleAttribute</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f233e885414e86a429427cd602529103</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BBannerDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BBannerDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>665bcab8227c226419b2b3f5a2005dd5</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba95ab923ea7d0f4c8138c91df353953</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BCategoryDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BCategoryDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afdcceb1639bff341a824912b8578c55</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bde65f3a57f99834696646c564792f24</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BInteractiveDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BInteractiveDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e94ae7cab8bc36c48937d0af74cc983f</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BLayersEnumAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BLayersEnumAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9f7dc50a9571da149a3c46042d55aec9</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f64a741b6429cc7418c99577e6d076f7</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BMessageDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BMessageDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75982df7d8209fa4b915e73bbe126e8d</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeOptionsAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeOptionAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>832bd746dcb0e3a458d151f4a9e8fcbf</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Drawers/Editor/BRangeSimpleAttributeDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BRangeSimpleAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bad0c1126218134b889f29aa44f2d4e</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Editor/BConst.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BConst</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6087e20fd1eb0be4b8667661a5f1551f</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorGUI.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BEditorGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a12ab7864a17044ca9ff79856b2d454</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Editor/BEditorUtils.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BEditorUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b1280c266cb567442bebe105bc251ebf</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Legacy/Editor/BVersion.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.BVersion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7804d8c715dbdb34d8aaf642890a3636</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/HideScriptField.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.HideScriptField</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd9224e2953d97047b2afc16d02324f4</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledEditor/Editor/MonoBehaviourEditor.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.MonoBehaviourEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0fb089d68a8e4634390e299256c8eec7</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledBanner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab1d3117b9da8d7429e5ac70bd016772</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledMessage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>896f8a6be3053ff4a8f322a960986af1</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledRangeOptions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e11186e2ccd8bf44d9d8699902268c99</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledSpace</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b33fc29a1077eff40880c4d54b57136c</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledTexturePreview</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a832b9f47ccef214e81c89efe6bf31dd</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledBannerDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledBannerAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2734a300c1fbfb8499fe8a71e9b109e7</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledMessageDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledMessageAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5681c6e5862ae545ba9b00a5b813250</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledRangeOptionsDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledRangeOptionsAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db0457065a494f34aa3b619f240d8bda</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledSpaceDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledSpaceAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c8daad1bc4051084ca6204e12dc0890d</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/Editor/StyledTexturePreviewDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledTexturePreviewAttributeDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>864d8c89c5d2ef240b0c51f15c5211e2</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledBannerDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledBannerDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b5715cd99e4a2e4c91d69653d31dad9</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/StyledMaterial/Editor/StyledCategoryDrawer.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.StyledGUI.StyledCategoryDrawer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>966dd46be18fca54fa55f1e65b59556e</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/BoxophobicUtils.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.Utils.BoxophobicUtils</string>
+      <string>Boxophobic.Utils.BoxophobicUtils+ShaderUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e0cf8ff3bbc97374f88272f686fb80e5</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/Constants.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.Constants.CONST</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e008cb438d425e42be46719cc8d1e3b</guid>
+    <fileName>Assets/BOXOPHOBIC/Utils/Scripts/Utils/Editor/ShaderUtils.cs</fileName>
+    <timeStamp>2020-02-17T00:11:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Boxophobic.Utils.BoxophobicUtils</string>
+      <string>Boxophobic.Utils.BoxophobicUtils+ShaderUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T13:51:26-05:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>
